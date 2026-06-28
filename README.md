@@ -1,5 +1,3 @@
-# deepseek jailbreak
-
 # How it works 
 
 AIs are fed something like this 
