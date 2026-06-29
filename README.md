@@ -4,7 +4,7 @@ AIs are fed something like this
 
 System Prompt: You are an helpful AI
 
--- safety stuff here
+-- safety stuff here --
 
 User: Question
 
